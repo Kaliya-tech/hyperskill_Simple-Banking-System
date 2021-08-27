@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":Topics-Math_library-The_angle_between_vectors:test" external.linked.project.path="$MODULE_DIR$/../../../../../Topics/Math library/The angle between vectors" external.root.project.path="$MODULE_DIR$/../../../../.." external.system.id="GRADLE" external.system.module.group="Simple_Banking_System" external.system.module.type="sourceSet" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output-test url="file://$MODULE_DIR$/../../../../../Topics/Math library/The angle between vectors/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Math library/The angle between vectors/src/test" />
+    <content url="file://$MODULE_DIR$/../../../../../Topics/Math library/The angle between vectors/test" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="Simple_Banking_System.Topics-Math_library-The_angle_between_vectors.main" />
+    <orderEntry type="library" name="Gradle: org.xerial:sqlite-jdbc:3.8.11.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.hyperskill:hs-test:release-SNAPSHOT" level="project" />
+  </component>
+  <component name="TestModuleProperties" production-module="Simple_Banking_System.Topics-Math_library-The_angle_between_vectors.main" />
+</module>
