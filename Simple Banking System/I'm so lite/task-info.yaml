@@ -490,6 +490,18 @@ files:
         }
     }
   learner_created: false
+- name: cards.db
+  visible: true
+  learner_created: true
+- name: card.s3db
+  visible: true
+  learner_created: true
+- name: tempDatabase.s3db
+  visible: true
+  learner_created: true
 feedback_link: https://hyperskill.org/projects/93/stages/517/implement#comment
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations!
+  time: Fri, 17 Sep 2021 12:29:34 UTC
+record: 2
